@@ -29,7 +29,7 @@ Currently, I'm sharpening my skills in Linux, networking, and automation as I pu
 ### 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/nickolas-torres-951428134/)
-- [GitHub](https://github.com/NickolasT9)
+- [GitHub][(https://github.com/NickolasT9)](https://github.com/NickolasT9/NickolasT9.git)
 
 ---
 
